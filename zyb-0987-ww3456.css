@@ -9,3 +9,6 @@
     position: center;
 }
 
+.container > div{
+    position: center;
+}
