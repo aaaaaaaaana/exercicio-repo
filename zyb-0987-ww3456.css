@@ -5,7 +5,7 @@
     font: 16px;
 }
 
-.container >div{
+.cabecalho > h1{
     position: center;
 }
 
